@@ -1,5 +1,5 @@
 # CIS410-GP-Assignment2
-Author: Jake Potter Vince Qiu
+Author: Jake Potter and Vince Qiu
 
 Contribution:
 
